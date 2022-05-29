@@ -1,5 +1,5 @@
 # Privacy-Policy
-NGHBR's Privacy policy
+
 What we think about when we think about privacy
 NGHBR is centered on location, and we're proud to have users who trust us and find our apps useful. We know an important concern for most anyone using location-based services is privacy. We want everyone to feel comfortable that their trust has been well placed, which is why we've written this description of our privacy ethos—the guiding principles that inform how we develop our Services and the decisions we make. Our full Privacy Policy is available here.
 NGHBR allows consumers to earn currency for sharing their whereabouts and answering surveys about their visits. This currency may be redeemed in app,
